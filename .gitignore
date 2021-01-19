@@ -132,4 +132,4 @@ dmypy.json
 .Jan-2021/working_models/*
 .Jan-2021/catboost_info/*
 */kaggle_data/*
-*/catboost_info/*
+*/notebooks/catboost_info/*
