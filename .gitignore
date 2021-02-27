@@ -135,3 +135,6 @@ dmypy.json
 */notebooks/submissions/*
 *Jan-2021/notebooks/catboost_info/*
 *Feb-2021/notebooks/catboost_info/*
+*.csv
+*.npy
+*.h5
