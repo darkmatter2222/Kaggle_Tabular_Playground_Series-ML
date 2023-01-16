@@ -139,4 +139,4 @@ dmypy.json
 *.npy
 *.h5
 *.hex
-*catboost_info*
+*catboost_info/*
